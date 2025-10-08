@@ -1,3 +1,4 @@
+<img width="1077" height="772" alt="Screenshot 2025-10-08 113532" src="https://github.com/user-attachments/assets/cb6a881e-655c-47e8-ae61-0c92481fbc2c" />
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
 ## AIM:
